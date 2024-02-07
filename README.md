@@ -4,19 +4,26 @@
 
 **TEAM 1**
 
-[Klik disini](www.google.com)
+## THIS MY FIRST WEBSITE
 
-![Gambar hunger game](images/hunger.jpg)
+Website saya berisikan pengenalan diri saya. Di dalam website ada beberapa section:
 
-```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-```
+- Introduction
+- Gallery
+- Form Contact
 
-| NO  | Name   |
-| --- | ------ |
-| 1   | David  |
-| 2   | Kholik |
+## 1. Introduction
+
+---
+
+Nama saya dion
+
+## 2. Gallery
+
+## 3. Form Contact
+
+Website saya bisa di cek di
+
+[![image](images/hunger.jpg)](https://www.github.com)
+
+[Link Netlify](https://luminous-dodol-a8fdcb.netlify.app/)
